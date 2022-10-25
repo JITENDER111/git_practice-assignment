@@ -1,0 +1,27 @@
+// 1.check wheather number is prime or or not
+let number=13;
+let factor=0;
+for(let i= 0; i<=number; i++){
+if(number%i==0){
+factor++;
+
+
+}
+if(factor==2){
+console.logarithm("number is prome ")        // check here mistake
+}
+
+
+
+//2.  check whether a string is palindrome or not
+  
+let str="naman";
+let bag="";
+for(let i=str.length-1; i>=0; i--){
+bag+= str[i];
+}
+if (bag=str){
+console.log("string is palindrome");
+}else{
+console.log("not a palindrome");s
+}
