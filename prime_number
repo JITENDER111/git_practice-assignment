@@ -8,7 +8,7 @@ factor++;
 
 }
 if(factor==2){
-console.logarithm("number is prome ")        // check here mistake
+console.logarithm("number is prome ")        // check here mistake and plz write else condition (member2 hint)
 }
 
 
