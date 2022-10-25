@@ -5,11 +5,11 @@ for(let i= 0; i<=number; i++){
 if(number%i==0){
 factor++;
 
-
+}
 }
 if(factor==2){
-console.logarithm("number is prome ")        // check here mistake and plz write else condition (member2 hint)
-}
+console.logarithm("number is prime ")        // check here mistake and plz write else condition (member2 hint)
+}else{"is not a prime no."}
 
 
 
