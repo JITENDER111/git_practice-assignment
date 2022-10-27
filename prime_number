@@ -6,10 +6,12 @@ if(number%i==0){
 factor++;
 
 }
+
 }
+
 if(factor==2){
 console.logarithm("number is prime ")        // check here mistake and plz write else condition (member2 hint)
-}else{"is not a prime no."}
+}else{"not a prime no."}
 
 
 
